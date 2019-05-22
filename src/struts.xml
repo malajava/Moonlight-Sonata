@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts PUBLIC   
+     "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"   
+     "http://struts.apache.org/dtds/struts-2.0.dtd">
+     
+     
+<struts>
+    <package name="liu" extends="struts-default">
+        <global-results>
+            <result name="succeed">/common/succeed.jsp</result>
+            <result name="msg">/common/msg.jsp</result>
+        </global-results>
+        
+        <action name="upload" class="com.util.upload" method="upload">
+             <result name="success">/upload/upload_re.jsp</result>
+        </action>
+        
+        
+        <action name="index" class="indexAction" method="index">
+            <result name="success">/qiantai/index.jsp</result>
+        </action>
+        
+        
+        <action name="adminAdd" class="adminAction" method="adminAdd">
+        </action>
+        <action name="adminDel" class="adminAction" method="adminDel">
+        </action>
+        <action name="adminManage" class="adminAction" method="adminManage">
+            <result name="success">/admin/index/adminManage.jsp</result>
+        </action>
+        
+        
+        <action name="userReg" class="userAction" method="userReg">
+        </action>
+        <action name="userEdit" class="userAction" method="userEdit">
+        </action>
+        <action name="userLogout" class="userAction" method="userLogout">
+        </action>
+        <action name="userMana" class="userAction" method="userMana">
+            <result name="success">/admin/user/userMana.jsp</result>
+        </action>
+        <action name="userDel" class="userAction" method="userDel">
+        </action>
+        
+        
+        
+        <action name="catelogAdd" class="catelogAction" method="catelogAdd">
+        </action>
+        <action name="catelogDel" class="catelogAction" method="catelogDel">
+        </action>
+        <action name="catelogMana" class="catelogAction" method="catelogMana">
+            <result name="success">/admin/catelog/catelogMana.jsp</result>
+        </action>
+        
+        
+        <action name="zhutiAdd" class="zhutiAction" method="zhutiAdd">
+        </action>
+        <action name="zhutiAll" class="zhutiAction" method="zhutiAll">
+            <result name="success">/qiantai/zhuti/zhutiAll.jsp</result>
+        </action>
+        <action name="zhutiRes" class="zhutiAction" method="zhutiRes">
+            <result name="success">/qiantai/zhuti/zhutiRes.jsp</result>
+        </action>
+        <action name="zhutiMana" class="zhutiAction" method="zhutiMana">
+            <result name="success">/admin/zhuti/zhutiMana.jsp</result>
+        </action>
+        <action name="zhutiDel" class="zhutiAction" method="zhutiDel">
+        </action>
+        <action name="zhuti_zhiding_shezhi" class="zhutiAction" method="zhuti_zhiding_shezhi">
+        </action>
+        <action name="zhuti_zhiding_quxiao" class="zhutiAction" method="zhuti_zhiding_quxiao">
+        </action>
+        <action name="zhuti_jinghua_shezhi" class="zhutiAction" method="zhuti_jinghua_shezhi">
+        </action>
+        <action name="zhuti_jinghua_quxiao" class="zhutiAction" method="zhuti_jinghua_quxiao">
+        </action>
+        <action name="zhutiMe" class="zhutiAction" method="zhutiMe">
+            <result name="success">/auser/zhuti/zhutiMe.jsp</result>
+        </action>
+        
+        
+        
+        <action name="huifuAll" class="huifuAction" method="huifuAll">
+            <result name="success">/qiantai/huifu/huifuAll.jsp</result>
+        </action>
+        <action name="huifuAdd" class="huifuAction" method="huifuAdd">
+        </action>
+        <action name="huifuMana" class="huifuAction" method="huifuMana">
+            <result name="success">/admin/huifu/huifuMana.jsp</result>
+        </action>
+        <action name="huifuDel" class="huifuAction" method="huifuDel">
+        </action>
+        
+        
+        
+    </package>
+</struts>

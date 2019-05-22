@@ -1,0 +1,186 @@
+
+
+第一种方式:
+C:\
+λ    sqlplus /nolog
+
+SQL*Plus: Release 11.2.0.1.0 Production on 星期一 9月 3 10:39:50 2018
+
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.
+
+SQL> show user ;
+USER 为 ""
+SQL> connect  sys/  as  sysdba ;               -- sys 表示一个用户名，/ 之后用于指定登录密码 ， sysdba 是一个角色
+输入口令:
+已连接。
+SQL> show user ;
+USER 为 "SYS"    
+SQL> -- 使用最高权限的用户(sys)来创建一个新的用户
+SQL> create user itlaobing identified by itlaobing ;
+用户已创建。
+SQL> -- 使用最高权限的用户(sys)来为 itlaobing 授权
+SQL> grant connect , resource to itlaobing ;
+授权成功。
+SQL> exit
+从 Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options 断开
+C:\
+λ   
+
+第二种方式:
+C:\
+λ sqlplus sys/oracle2018 as sysdba
+
+SQL*Plus: Release 11.2.0.1.0 Production on 星期一 9月 3 11:32:06 2018
+
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.
+
+
+连接到:
+Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> create user 用户名 identified by 密码 ;
+用户已创建。
+SQL> grant connect , resource to 用户名 ;
+授权成功。
+SQL> 
+
+注意:  建议用户名和密码都是同一个字符串，比如 wangmou 、itlaobing 。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+第一种方式登入:
+C:\                                                                 
+λ   sqlplus  /nolog                                                    
+                                                                    
+SQL*Plus: Release 11.2.0.1.0 Production on 星期一 9月 3 10:50:48 2018   
+                                                                    
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.             
+                                                                    
+SQL> connect  itlaobing/itlaobing                                    
+已连接。                                                                
+SQL> show user ;                                                              
+USER 为 "ITLAOBING"                                                            
+SQL>                                                                             
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+第二种方式登入:
+C:\                                                                           
+λ sqlplus  itlaobing                                                           
+                                                                              
+SQL*Plus: Release 11.2.0.1.0 Production on 星期一 9月 3 10:51:51 2018             
+                                                                              
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.                       
+                                                                              
+输入口令:                 (注意这里，不论输入什么，总是什么都不显示 )                                                        
+                                                                              
+连接到:                                                                          
+Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production  
+With the Partitioning, OLAP, Data Mining and Real Application Testing options 
+                                                                              
+SQL> show user ;                                                              
+USER 为 "ITLAOBING"                                                            
+SQL>                                                                          
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+第三种方式登入:
+
+C:\ 
+λ sqlplus  itlaobing/itlaobing
+
+SQL*Plus: Release 11.2.0.1.0 Production on 星期一 9月 3 10:53:28 2018
+
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.
+
+
+连接到:
+Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> show user ;
+USER 为 "ITLAOBING"
+SQL>
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SQL> show user ;
+USER 为 "ITLAOBING"
+SQL> select sysdate from dual ;
+
+SYSDATE
+--------------
+03-9月 -18
+
+SQL> select to_char( sysdate , 'yyyy-MM-dd HH:mi:ss' ) from dual ;
+
+TO_CHAR(SYSDATE,'YY
+-------------------
+2018-09-03 10:55:52
+
+SQL>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+删除用户:
+
+1、首先用 sys 用户 并以 sysdba 角色 登录
+
+【cmder中的操作】
+C:\
+λ  sqlplus sys/oracle2018 as sysdba
+
+
+SQL*Plus: Release 11.2.0.1.0 Production on 星期一 9月 3 11:27:39 2018
+
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.
+
+
+连接到:
+Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL>
+
+【命令提示符中的操作】
+C:\>sqlplus sys/oracle2018 as sysdba
+
+SQL*Plus: Release 11.2.0.1.0 Production on 星期一 9月 3 11:26:50 2018
+
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.
+
+
+连接到:
+Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL>
+
+
+
+2、用 sys 用户( sysdba 角色 ) 删除 itlaobing 用户
+
+【cmder中的操作】
+SQL> drop user itlaobing cascade ;
+用户已删除。
+SQL>
+
+
+【命令提示符中的操作】
+SQL> drop user itlaobing cascade ;
+用户已删除。
+SQL>
+
+注意: 用户被删除之后，将不能再使用该用户登录。
+
+
+
+
+
+
+
+
+
+
+
+

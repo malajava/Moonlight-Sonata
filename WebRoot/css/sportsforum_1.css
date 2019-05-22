@@ -1,0 +1,2231 @@
+.forumlist TD {
+	BORDER-LEFT: #cecece 1px solid
+}
+.threadlist TD {
+	BORDER-LEFT: #cecece 1px solid
+}
+* {
+	WORD-WRAP: break-word
+}
+BODY {
+	TEXT-ALIGN: center; BACKGROUND: #fff
+}
+BODY {
+	FONT: 12px/1.6em Helvetica, Arial, sans-serif; COLOR: #000
+}
+TD {
+	FONT: 12px/1.6em Helvetica, Arial, sans-serif; COLOR: #000
+}
+
+TEXTAREA {
+	FONT: 12px/1.6em Helvetica, Arial, sans-serif; COLOR: #000
+}
+SELECT {
+	FONT: 12px/1.6em Helvetica, Arial, sans-serif; COLOR: #000
+}
+
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	FONT: 14px/24px ΢���ź�,����; font-size-adjust: none; font-stretch: normal
+}
+H2 {
+	FONT: 14px/24px ΢���ź�,����; font-size-adjust: none; font-stretch: normal
+}
+H3 {
+	FONT: 14px/24px ΢���ź�,����; font-size-adjust: none; font-stretch: normal
+}
+H4 {
+	FONT: 14px/24px ΢���ź�,����; font-size-adjust: none; font-stretch: normal
+}
+H5 {
+	FONT: 14px/24px ΢���ź�,����; font-size-adjust: none; font-stretch: normal
+}
+H6 {
+	FONT: 14px/24px ΢���ź�,����; font-size-adjust: none; font-stretch: normal
+}
+#menu LI {
+	LIST-STYLE-TYPE: none
+}
+.popupmenu_popup LI {
+	LIST-STYLE-TYPE: none
+}
+#announcement LI {
+	LIST-STYLE-TYPE: none
+}
+.portalbox LI {
+	LIST-STYLE-TYPE: none
+}
+.tabs LI {
+	LIST-STYLE-TYPE: none
+}
+.postmessage FIELDSET LI {
+	LIST-STYLE-TYPE: none
+}
+.side LI {
+	LIST-STYLE-TYPE: none
+}
+.formbox LI {
+	LIST-STYLE-TYPE: none
+}
+.notice LI {
+	LIST-STYLE-TYPE: none
+}
+A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.threadlist A:visited {
+	COLOR: #800080
+}
+.threadlist H1 A:visited {
+	COLOR: #ffffff
+}
+A IMG {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+EM {
+	FONT-STYLE: normal; FONT-WEIGHT: normal
+}
+CITE {
+	FONT-STYLE: normal; FONT-WEIGHT: normal
+}
+STRONG {
+	FONT-STYLE: normal; FONT-WEIGHT: normal
+}
+TH {
+	FONT-STYLE: normal; FONT-WEIGHT: normal
+}
+TABLE {
+	BORDER-COLLAPSE: collapse; EMPTY-CELLS: show
+}
+.wrap {
+	TEXT-ALIGN: left; MARGIN: 0px auto; WIDTH: 950px
+}
+.notice {
+	BORDER-BOTTOM: #ededce 1px solid; BORDER-LEFT: #ededce 1px solid; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 3em; PADDING-RIGHT: 1em; MARGIN-BOTTOM: 10px; BACKGROUND: url() #fffff2 no-repeat 1em 0.7em; COLOR: #090; FONT-SIZE: 14px; BORDER-TOP: #ededce 1px solid; BORDER-RIGHT: #ededce 1px solid; PADDING-TOP: 0.5em
+}
+.message {
+	MARGIN: 3em 10em 5em
+}
+.message H1 {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #fff 1px solid; LINE-HEIGHT: 26px; PADDING-LEFT: 1em; MARGIN-BOTTOM: 1em; BACKGROUND: url() #fff repeat-x 0px 0px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+.message P {
+	MARGIN: 1.5em 1em
+}
+.message A {
+	COLOR: #333
+}
+#header {
+	WIDTH: 100%; BACKGROUND: #000; OVERFLOW: hidden
+}
+#header H2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+#footer {
+	PADDING-BOTTOM: 12px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 950px; PADDING-RIGHT: 0px; PADDING-TOP: 12px
+}
+#footlinks {
+	TEXT-ALIGN: right; MARGIN-TOP: -3px; FLOAT: right; COLOR: #ccc
+}
+#footer IMG {
+	MARGIN: 0px 10px 0px 0px; FLOAT: left
+}
+#copyright {
+	FONT: 0.83em/1.5em Verdana, Arial, Helvetica, sans-serif; COLOR: #ccc
+}
+#debuginfo {
+	FONT: 0.83em/1.5em Verdana, Arial, Helvetica, sans-serif; COLOR: #ccc
+}
+#copyright STRONG {
+	FONT-WEIGHT: normal
+}
+#copyright EM {
+	FONT-WEIGHT: normal
+}
+#copyright STRONG A {
+	COLOR: #0954a6
+}
+#copyright EM {
+	COLOR: #ff9d25
+}
+#debuginfo {
+	COLOR: #999
+}
+.scrolltop {
+	CURSOR: pointer
+}
+#menu {
+	BORDER-BOTTOM: #cecece 0px solid; BORDER-LEFT: #cecece 0px solid; BACKGROUND: url(/luntan/img/menubg.gif) repeat-x; HEIGHT: 38px; BORDER-TOP: #cecece 0px solid; BORDER-RIGHT: #cecece 0px solid
+}
+#menu UL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: right; BORDER-RIGHT: #fff 0px solid; PADDING-TOP: 5px
+}
+#menu LI {
+	FLOAT: left
+}
+#menu LI A {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FLOAT: left; COLOR: #333; TEXT-DECORATION: none; PADDING-TOP: 4px
+}
+#menu LI.hover {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #cecece 1px solid; BACKGROUND-COLOR: #fff; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+#menu LI.current {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #cecece 1px solid; BACKGROUND-COLOR: #fff; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+#menu LI.current {
+	FONT-WEIGHT: normal
+}
+#menu LI.hover A {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 3px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 3px
+}
+#menu LI.current A {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 3px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 4px
+}
+#menu CITE A {
+	BACKGROUND-IMAGE: none; FONT-WEIGHT: normal
+}
+.frameswitch {
+	LINE-HEIGHT: 37px; PADDING-LEFT: 10px; FLOAT: left; HEIGHT: 37px
+}
+#menu A.frameoff {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 16px; BORDER-TOP-STYLE: none; BACKGROUND: no-repeat 0px 50%; FLOAT: left; MARGIN-LEFT: 0px; BORDER-LEFT-STYLE: none
+}
+#menu A.frameon {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 16px; BORDER-TOP-STYLE: none; BACKGROUND: no-repeat 0px 50%; FLOAT: left; MARGIN-LEFT: 0px; BORDER-LEFT-STYLE: none
+}
+#menu A.frameoff {
+	BACKGROUND-IMAGE: url()
+}
+#menu A.frameon {
+	BACKGROUND-IMAGE: url()
+}
+#foruminfo {
+	MARGIN: 10px 0px; WIDTH: 100%; COLOR: #666; OVERFLOW: hidden
+}
+#userinfo {
+	PADDING-LEFT: 5px; FLOAT: left
+}
+#foruminfo #nav {
+	PADDING-LEFT: 5px; FLOAT: left
+}
+#forumstats {
+	TEXT-ALIGN: right; PADDING-RIGHT: 5px; FLOAT: right
+}
+#headsearch {
+	TEXT-ALIGN: right; PADDING-RIGHT: 5px; FLOAT: right
+}
+#foruminfo P {
+	MARGIN: 0px
+}
+#foruminfo A {
+	COLOR: #333
+}
+#foruminfo EM {
+	COLOR: #000
+}
+#foruminfo CITE {
+	FONT-WEIGHT: normal
+}
+#foruminfo STRONG A {
+	COLOR: #000; FONT-WEIGHT: normal
+}
+#nav {
+	MARGIN: 10px 5px
+}
+#foruminfo #nav {
+	MARGIN: 0px
+}
+#userinfo #nav {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+#nav A {
+	COLOR: #333
+}
+#announcement {
+	LINE-HEIGHT: 36px; HEIGHT: 36px; OVERFLOW: hidden; BORDER-TOP: #cecece 1px dashed
+}
+#announcement DIV {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 35px !important; OVERFLOW-Y: hidden; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; HEIGHT: 36px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0px
+}
+#announcement LI {
+	PADDING-LEFT: 10px; WHITE-SPACE: nowrap; BACKGROUND: url() no-repeat 0px 50%; FLOAT: left; MARGIN-RIGHT: 20px
+}
+#announcement LI EM {
+	COLOR: #666; MARGIN-LEFT: 5px; FONT-SIZE: 0.83em
+}
+.portalbox {
+	WIDTH: 100%; BORDER-COLLAPSE: separate; MARGIN-BOTTOM: 10px; BACKGROUND: #cecece
+}
+.portalbox TD {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url() #fff repeat-x 0px 0px; VERTICAL-ALIGN: top; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 10px
+}
+.portalbox H3 {
+	MARGIN: 0px 0px 5px; WHITE-SPACE: nowrap; FONT-SIZE: 1em
+}
+.portalbox STRONG {
+	MARGIN-TOP: 4px; FONT-WEIGHT: normal
+}
+.portalbox EM {
+	COLOR: #999
+}
+.portalbox EM A {
+	COLOR: #999
+}
+.portalbox CITE A {
+	COLOR: #333
+}
+#supeitems LI {
+	FLOAT: left; HEIGHT: 1.6em; OVERFLOW: hidden
+}
+#hottags A {
+	WHITE-SPACE: nowrap; MARGIN-RIGHT: 0.5em
+}
+.headactions {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FLOAT: right; PADDING-TOP: 6px
+}
+.headactions IMG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; VERTICAL-ALIGN: middle; CURSOR: pointer; PADDING-TOP: 0px
+}
+.mainbox .headactions {
+	COLOR: #fff
+}
+.mainbox .headactions A {
+	PADDING-RIGHT: 10px; BACKGROUND: url() no-repeat 100% 50%; COLOR: #fff; MARGIN-RIGHT: 8px
+}
+.mainbox .headactions SPAN {
+	PADDING-RIGHT: 10px; BACKGROUND: url() no-repeat 100% 50%; COLOR: #fff; MARGIN-RIGHT: 8px
+}
+.mainbox .headactions STRONG {
+	PADDING-RIGHT: 10px; BACKGROUND: url() no-repeat 100% 50%; COLOR: #fff; MARGIN-RIGHT: 8px
+}
+.mainbox .headactions STRONG {
+	BACKGROUND-IMAGE: url(); FONT-WEIGHT: normal
+}
+.pages_btns {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.postbtn {
+	FLOAT: right
+}
+.replybtn {
+	FLOAT: right
+}
+.postbtn {
+	MARGIN-LEFT: 10px; CURSOR: pointer
+}
+.pages_btns .pages EM {
+	LINE-HEIGHT: 26px
+}
+.pages {
+	LINE-HEIGHT: 26px;  FLOAT: left; HEIGHT: 24px
+}
+.threadflow {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; LINE-HEIGHT: 26px; BACKGROUND: #f7f7f7; FLOAT: left; HEIGHT: 24px; COLOR: #999; OVERFLOW: hidden; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+.pages A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FLOAT: left; PADDING-TOP: 0px
+}
+.pages STRONG {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FLOAT: left; PADDING-TOP: 0px
+}
+.pages EM {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FLOAT: left; PADDING-TOP: 0px
+}
+.pages KBD {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FLOAT: left; PADDING-TOP: 0px
+}
+#multipage .pages EM {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FLOAT: left; PADDING-TOP: 0px
+}
+.pages A:hover {
+	BACKGROUND-COLOR: #fff
+}
+.pages STRONG {
+	BACKGROUND: #cecece; COLOR: #090; FONT-WEIGHT: normal
+}
+.pages A.prev {
+	LINE-HEIGHT: 24px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.pages A.next {
+	LINE-HEIGHT: 24px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.pages A.next {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 0px
+}
+.pages KBD {
+	BORDER-LEFT: #cecece 1px solid; MARGIN: 0px
+}
+* HTML .pages KBD {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 1px
+}
+.pages KBD INPUT {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 0px; MARGIN: 1px 4px 0px 3px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; HEIGHT: 17px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 0px
+}
+.pages KBD > INPUT {
+	MARGIN-BOTTOM: 2px
+}
+.threadflow {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; MARGIN-RIGHT: 5px; PADDING-TOP: 0px
+}
+.tabs {
+	BORDER-BOTTOM: #cecece 1px solid; PADDING-BOTTOM: 26px; MARGIN-BOTTOM: 15px; BACKGROUND: #f1f1f1; BORDER-TOP: #fff 1px solid
+}
+.tabs LI {
+	LINE-HEIGHT: 25px; FLOAT: left; BORDER-RIGHT: #cecece 1px solid
+}
+.tabs LI.current {
+	BACKGROUND: #fff; HEIGHT: 27px; FONT-WEIGHT: normal
+}
+.tabs LI A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 0px
+}
+.headertabs {
+	MARGIN-BOTTOM: 0px; BACKGROUND: #fff
+}
+.headertabs LI.current {
+	
+}
+.sendpm A {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 35px !important; PADDING-RIGHT: 20px !important; BACKGROUND: url() no-repeat 15px 50%; COLOR: #090; PADDING-TOP: 0px !important
+}
+#headfilter {
+	BORDER-BOTTOM: #cccccc 0px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#headfilter .tabs {
+	BORDER-BOTTOM-COLOR: #fff; MARGIN-BOTTOM: 0px
+}
+#footfilter {
+	BORDER-BOTTOM-COLOR: #e8e8e8; PADDING-BOTTOM: 10px; LINE-HEIGHT: 24px; BORDER-TOP-COLOR: #e8e8e8; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: Simsun, "Times New Roman"; BACKGROUND: #f7f7f7; HEIGHT: 24px; BORDER-RIGHT-COLOR: #e8e8e8; BORDER-LEFT-COLOR: #e8e8e8; PADDING-TOP: 10px
+}
+#footfilter FORM {
+	FLOAT: right
+}
+#footfilter * {
+	VERTICAL-ALIGN: middle
+}
+.legend {
+	BORDER-BOTTOM: #cecece 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 35px; MARGIN: 10px auto; PADDING-LEFT: 10px; WIDTH: 500px; PADDING-RIGHT: 10px; BACKGROUND: #fbfbfb; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 10px
+}
+.legend LABEL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.legend IMG {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 10px
+}
+.avatarlist {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 5px
+}
+* HTML .avatarlist {
+	HEIGHT: 1%
+}
+.avatarlist DL {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 70px; PADDING-RIGHT: 5px; FLOAT: left; BORDER-TOP: #e8e8e8 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #e8e8e8 1px solid; PADDING-TOP: 5px
+}
+.avatarlist DT {
+	WIDTH: 70px; HEIGHT: 70px
+}
+.avatarlist DL IMG {
+	WIDTH: 64px; HEIGHT: 64px
+}
+.avatarlist DD {
+	LINE-HEIGHT: 22px; HEIGHT: 22px; OVERFLOW: hidden
+}
+.taglist {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.taglist LI {
+	MARGIN: 0px 10px; WIDTH: 10em; DISPLAY: inline; FLOAT: left; HEIGHT: 24px; OVERFLOW: hidden
+}
+.taglist LI EM {
+	COLOR: #999; FONT-SIZE: 10px
+}
+.attriblist * {
+	COLOR: #000
+}
+.attriblist DT {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.attriblist .name {
+	FONT-WEIGHT: normal
+}
+.attriblist DD A {
+	COLOR: #333
+}
+#forumlinks {
+	
+}
+#forumlinks TD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 55px; PADDING-RIGHT: 5px; BACKGROUND: url() no-repeat 18px 50%; COLOR: #999; PADDING-TOP: 5px
+}
+#forumlinks .forumlink_logo {
+	FLOAT: right
+}
+#online {
+	
+}
+#online H4 {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+#online H4 STRONG {
+	FONT-WEIGHT: normal
+}
+#online DL {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 55px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+#onlinelist {
+	BACKGROUND: url() no-repeat 10px 10px; BORDER-TOP: #e8e8e8 1px solid
+}
+#online DT {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+#online DT IMG {
+	MARGIN-BOTTOM: -3px
+}
+#online DD {
+	BORDER-TOP: #e8e8e8 1px solid
+}
+#bdayslist {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 55px; PADDING-RIGHT: 0px; BACKGROUND: url() no-repeat 10px 5px; BORDER-TOP: #e8e8e8 1px solid; PADDING-TOP: 10px
+}
+.userlist {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; OVERFLOW: hidden; PADDING-TOP: 5px
+}
+* HTML .userlist {
+	HEIGHT: 1%
+}
+.userlist LI {
+	WIDTH: 128px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden
+}
+.userlist LI IMG {
+	VERTICAL-ALIGN: middle
+}
+#onlinelist .userlist LI {
+	MARGIN: 4px auto; HEIGHT: auto
+}
+#recommendlist {
+	
+}
+#recommendlist LI {
+	TEXT-INDENT: 12px; WIDTH: 24.9%; WHITE-SPACE: nowrap; BACKGROUND: url() no-repeat 2px 7px; FLOAT: left; OVERFLOW: hidden
+}
+.rules#recommendlist LI {
+	WIDTH: 49%
+}
+.recommendrules {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#seccode {
+	CURSOR: pointer
+}
+.autosave {
+	BEHAVIOR: url(#default#userdata)
+}
+#menu A.notabs {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.headactions A.notabs {
+	PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-RIGHT: 0px
+}
+.absmiddle {
+	VERTICAL-ALIGN: middle
+}
+.mainbox {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; MARGIN-BOTTOM: 10px; BACKGROUND: #fff; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 1px
+}
+.mainbox H1 {
+	LINE-HEIGHT: 31px; PADDING-LEFT: 1em; BACKGROUND: url(/luntan/img/header_bg_1.gif) repeat-x 0px 0px; COLOR: #fff
+}
+.mainbox H3 {
+	LINE-HEIGHT: 31px; PADDING-LEFT: 1em; BACKGROUND: url(/luntan/img/header_bg_1.gif) repeat-x 0px 0px; COLOR: #fff
+}
+.mainbox H6 {
+	LINE-HEIGHT: 31px; PADDING-LEFT: 1em; BACKGROUND: url(/luntan/img/header_bg_1.gif) repeat-x 0px 0px; COLOR: #fff
+}
+.mainbox H1 A {
+	COLOR: #fff
+}
+.mainbox H3 A {
+	COLOR: #fff
+}
+.mainbox TABLE {
+	WIDTH: 100%
+}
+.forumlist TABLE {
+	BORDER-COLLAPSE: separate
+}
+.threadlist TABLE {
+	BORDER-COLLAPSE: separate
+}
+.mainbox THEAD TH {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 22px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666; PADDING-TOP: 2px
+}
+.mainbox THEAD TD {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 22px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666; PADDING-TOP: 2px
+}
+.mainbox THEAD.category TH {
+	BACKGROUND: url()
+}
+.mainbox THEAD.category TD {
+	BACKGROUND: url()
+}
+.mainbox THEAD.separation TH {
+	BORDER-TOP: #cecece 1px solid
+}
+.mainbox THEAD.separation TD {
+	BORDER-TOP: #cecece 1px solid
+}
+.mainbox TBODY TH {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #cecece 1px solid; PADDING-TOP: 5px
+}
+.mainbox TBODY TD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #cecece 1px solid; PADDING-TOP: 5px
+}
+.mainbox TBODY CITE {
+	LINE-HEIGHT: 1.3em
+}
+.mainbox TBODY EM {
+	LINE-HEIGHT: 1.3em
+}
+.forumlist TBODY STRONG {
+	COLOR: #090
+}
+.threadlist TBODY STRONG {
+	COLOR: #090
+}
+.formbox TBODY STRONG {
+	COLOR: #090
+}
+.footoperation {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: #cecece 1px solid; PADDING-TOP: 5px
+}
+.threadlist .footoperation {
+	PADDING-LEFT: 61px
+}
+.footoperation * {
+	VERTICAL-ALIGN: middle
+}
+.footoperation LABEL {
+	CURSOR: pointer; MARGIN-RIGHT: 1em
+}
+
+.forumlist TBODY TH {
+	BORDER-BOTTOM: #fff 0px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #fbfbfb; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #666; PADDING-TOP: 1px
+}
+.forumlist TBODY TD {
+	BORDER-BOTTOM: #fff 0px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #fbfbfb; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #666; PADDING-TOP: 1px
+}
+.threadlist TBODY TH {
+	BORDER-BOTTOM: #fff 0px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #fbfbfb; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #666; PADDING-TOP: 1px
+}
+.threadlist TBODY TD {
+	BORDER-BOTTOM: #fff 0px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #fbfbfb; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #666; PADDING-TOP: 1px
+}
+.forumlist TBODY TH {
+	HEIGHT: 40px
+}
+.forumlist TH {
+	TEXT-ALIGN: left
+}
+.threadlist TH {
+	TEXT-ALIGN: left
+}
+.forumlist TH {
+	PADDING-LEFT: 55px !important
+}
+.forumlist H2 EM {
+	COLOR: #333
+}
+.forumlist TBODY TH {
+	BACKGROUND-IMAGE: url(); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 13px 50%
+}
+.forumlist TBODY TH.new {
+	BACKGROUND-IMAGE: url()
+}
+.moderators A {
+	COLOR: #333
+}
+.moderators A:link STRONG {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+.moderators A:hover STRONG {
+	COLOR: #000; FONT-WEIGHT: normal
+}
+.threadlist TH LABEL {
+	FLOAT: right
+}
+.threadpages {
+	WHITE-SPACE: nowrap; BACKGROUND: url() no-repeat 0px 100%; MARGIN-LEFT: 5px; FONT-SIZE: 11px
+}
+.threadpages A {
+	PADDING-LEFT: 8px
+}
+.threadpages A:hover {
+	TEXT-DECORATION: underline
+}
+.threadlist TH A.new {
+	TEXT-TRANSFORM: uppercase; WHITE-SPACE: nowrap; COLOR: #090; FONT-SIZE: 9px
+}
+.threadlist TH INPUT {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+.threadlist TH EM {
+	COLOR: #999
+}
+.threadlist TH EM A {
+	COLOR: #999
+}
+.threadlist TH IMG.icon {
+	FLOAT: left; MARGIN-LEFT: -22px
+}
+.threadlist TH IMG.attach {
+	MARGIN-BOTTOM: -3px
+}
+.threadlist TH IMG.icon {
+	MARGIN-BOTTOM: -3px
+}
+.threadlist .target {
+	TEXT-INDENT: -9999px; WIDTH: 20px; DISPLAY: block; FLOAT: left; HEIGHT: 20px; MARGIN-LEFT: -28px; OVERFLOW: hidden
+}
+* HTML .threadlist .target {
+	MARGIN-LEFT: -14px; MARGIN-RIGHT: 5px
+}
+.forumlist TBODY TR:hover TH {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.forumlist TBODY TR:hover TD {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.threadlist TBODY TR:hover TH {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.threadlist TBODY TR:hover TD {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.forumlist TD.lastpost {
+	WIDTH: 260px
+}
+.threadlist TD.folder {
+	TEXT-ALIGN: center; WIDTH: 30px
+}
+.threadlist TD.icon {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; WIDTH: 20px; PADDING-RIGHT: 0px; PADDING-TOP: 3px
+}
+.threadlist TD.author {
+	WIDTH: 120px
+}
+.threadlist TD.lastpost {
+	TEXT-ALIGN: right; WIDTH: 120px; PADDING-RIGHT: 15px
+}
+.threadlist TD.lastpost CITE A {
+	COLOR: #999
+}
+.forumlist CITE {
+	DISPLAY: block
+}
+.threadlist CITE {
+	DISPLAY: block
+}
+.threadlist TD.author EM {
+	FONT-SIZE: 0.83em
+}
+.threadlist TD.lastpost EM {
+	FONT-SIZE: 0.83em
+}
+LABEL.highlight {
+	WIDTH: 40px; MARGIN-RIGHT: 30px
+}
+LABEL.highlight {
+	FLOAT: left
+}
+LABEL.highlight INPUT {
+	FLOAT: left
+}
+LABEL.highlight EM {
+	WIDTH: 16px; FLOAT: right; HEIGHT: 16px
+}
+.quickmanage LABEL.highlight {
+	MARGIN: 3px 18px 3px 0px; WIDTH: 40px
+}
+#updatecircles TH {
+	BACKGROUND-IMAGE: none
+}
+#updatecircles .circlelogo {
+	MARGIN-TOP: 10px; ; WIDTH: expression(this.width > 32 && this.height < this.width ? 32: true); MAX-WIDTH: 32px; FLOAT: left; ; HEIGHT: expression(this.height > 32 ? 32: true); MAX-HEIGHT: 32px; MARGIN-LEFT: -40px
+}
+.viewthread {
+	PADDING-BOTTOM: 1px
+}
+.viewthread TABLE {
+	TABLE-LAYOUT: fixed
+}
+#pmprompt TABLE {
+	TABLE-LAYOUT: fixed
+}
+#forumlinks {
+	TABLE-LAYOUT: fixed
+}
+#pmlist {
+	TABLE-LAYOUT: fixed
+}
+#specialpost {
+	TABLE-LAYOUT: fixed
+}
+#newpost {
+	TABLE-LAYOUT: fixed
+}
+#editpost {
+	TABLE-LAYOUT: fixed
+}
+.viewthread INS {
+	BORDER-BOTTOM: #cecece 1px solid; TEXT-ALIGN: center; LINE-HEIGHT: 26px; DISPLAY: block; MARGIN-BOTTOM: 1px; BACKGROUND: #f7f7f7; TEXT-DECORATION: none
+}
+.mainbox INS {
+	BORDER-BOTTOM: #cecece 1px solid; TEXT-ALIGN: center; LINE-HEIGHT: 26px; DISPLAY: block; MARGIN-BOTTOM: 1px; BACKGROUND: #f7f7f7; TEXT-DECORATION: none
+}
+INS.logininfo {
+	BORDER-BOTTOM-STYLE: none; TEXT-ALIGN: left; PADDING-BOTTOM: 2px; LINE-HEIGHT: 22px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666; BORDER-LEFT-STYLE: none; PADDING-TOP: 2px
+}
+.viewthread INS {
+	COLOR: #090
+}
+.viewthread INS A {
+	COLOR: #090
+}
+.viewthread TD.postcontent {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BORDER-TOP-STYLE: none; BACKGROUND: #fff; VERTICAL-ALIGN: top; BORDER-LEFT-STYLE: none; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.viewthread TD.postauthor {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BORDER-TOP-STYLE: none; BACKGROUND: #fff; VERTICAL-ALIGN: top; BORDER-LEFT-STYLE: none; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.postinfo {
+	BORDER-BOTTOM: #cecece 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; HEIGHT: 26px; COLOR: #666; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.postinfo STRONG {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px !important; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FLOAT: right; COLOR: #333; CURSOR: pointer; PADDING-TOP: 0px
+}
+.postinfo EM {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px !important; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FLOAT: right; COLOR: #333; CURSOR: pointer; PADDING-TOP: 0px
+}
+.postinfo STRONG {
+	COLOR: #090; MARGIN-LEFT: 5px; FONT-WEIGHT: normal
+}
+* HTML .postinfo STRONG {
+	MARGIN-TOP: -2px
+}
+.postinfo STRONG SUP {
+	COLOR: #999; MARGIN-LEFT: 1px; FONT-WEIGHT: normal
+}
+.postinfo A {
+	COLOR: #333
+}
+.postinfo LABEL {
+	COLOR: #090; CURSOR: pointer
+}
+.postmessage {
+	PADDING-BOTTOM: 10px; OVERFLOW-X: hidden; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.postmessage * {
+	LINE-HEIGHT: 150%
+}
+.pmmessage * {
+	LINE-HEIGHT: 150%
+}
+.register * {
+	LINE-HEIGHT: 150%
+}
+.defaultpost {
+	MIN-HEIGHT: 280px !important; HEIGHT: auto !important
+}
+.postmessage H2 {
+	MARGIN-BOTTOM: 0.5em; FONT-SIZE: 1.17em
+}
+.t_msgfont {
+	LINE-HEIGHT: 1.6em; FONT-SIZE: 14px
+}
+.t_msgfont TD {
+	LINE-HEIGHT: 1.6em; FONT-SIZE: 14px
+}
+.t_smallfont {
+	LINE-HEIGHT: 1.6em; FONT-SIZE: 12px
+}
+.t_smallfont TD {
+	LINE-HEIGHT: 1.6em; FONT-SIZE: 12px
+}
+.t_bigfont {
+	LINE-HEIGHT: 1.6em; FONT-SIZE: 16px
+}
+.t_bigfont TD {
+	LINE-HEIGHT: 1.6em; FONT-SIZE: 16px
+}
+.t_msgfont * {
+	LINE-HEIGHT: 150%
+}
+.t_smallfont * {
+	LINE-HEIGHT: 150%
+}
+.t_bigfont * {
+	LINE-HEIGHT: 150%
+}
+.t_msgfont A {
+	COLOR: #333
+}
+.t_smallfont A {
+	COLOR: #333
+}
+.t_bigfont A {
+	COLOR: #333
+}
+.postratings {
+	FLOAT: right
+}
+.signatures {
+	LINE-HEIGHT: 1.6em; MARGIN: 10px; BACKGROUND: url() no-repeat 0px 0px; ; HEIGHT: expression(signature(this)); COLOR: #666; MAX-HEIGHT: 100px; OVERFLOW: hidden; PADDING-TOP: 20px
+}
+.signatures * {
+	LINE-HEIGHT: normal
+}
+.signatures STRONG {
+	FONT-WEIGHT: normal
+}
+.postactions {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #f7f7f7; HEIGHT: 30px; BORDER-TOP: #e8e8e8 1px solid; PADDING-TOP: 0px
+}
+.postactions STRONG {
+	CURSOR: pointer
+}
+.postactions INPUT {
+	MARGIN: 5px 0px 0px 5px; FLOAT: right
+}
+.postactions P {
+	FLOAT: right
+}
+.postmessage .box {
+	BORDER-RIGHT-WIDTH: 0px; MARGIN: 5px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.postmessage .typeoption {
+	WIDTH: 500px
+}
+.typeoption TBODY TH {
+	WIDTH: 100px
+}
+.typeoption TBODY TD {
+	BORDER-BOTTOM: #e8e8e8 1px dashed; BORDER-TOP-WIDTH: 0px
+}
+.typeoption TBODY TH {
+	BORDER-BOTTOM: #e8e8e8 1px dashed; BORDER-TOP-WIDTH: 0px
+}
+.postmessage .box TBODY TH {
+	BORDER-TOP-COLOR: #e8e8e8
+}
+.postmessage .box TBODY TD {
+	BORDER-TOP-COLOR: #e8e8e8
+}
+.postmessage FIELDSET {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 10px; MARGIN-TOP: 2em; PADDING-LEFT: 10px; WIDTH: 500px; PADDING-RIGHT: 10px; FONT-SIZE: 12px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 10px
+}
+.postmessage FIELDSET LI {
+	LINE-HEIGHT: 1.6em; COLOR: #999
+}
+.postmessage FIELDSET LI CITE {
+	MARGIN: auto 10px
+}
+.postmessage FIELDSET LI EM {
+	MARGIN: auto 10px
+}
+.t_msgfont LI {
+	MARGIN-LEFT: 2em
+}
+.t_bigfont LI {
+	MARGIN-LEFT: 2em
+}
+.t_smallfont LI {
+	MARGIN-LEFT: 2em
+}
+.faq LI {
+	MARGIN-LEFT: 2em
+}
+.postattach {
+	MARGIN: 10px 0px; WIDTH: 500px
+}
+.postattachlist {
+	MARGIN-TOP: 2em; WIDTH: 500px; FONT-SIZE: 12px
+}
+.t_attach {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #fff; FONT-SIZE: 12px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid; PADDING-TOP: 5px
+}
+.t_attach EM {
+	COLOR: #999
+}
+.t_attachlist {
+	BORDER-BOTTOM: #e8e8e8 1px dashed; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.t_attachlist DT {
+	FONT-WEIGHT: normal
+}
+.t_attachlist DT IMG {
+	MARGIN-BOTTOM: -4px
+}
+.t_attachlist DD {
+	PADDING-LEFT: 20px; COLOR: #999
+}
+.t_attachinsert {
+	MARGIN: 1em 0px; FONT-SIZE: 12px
+}
+.t_attachinsert P IMG {
+	MARGIN-BOTTOM: -4px
+}
+.t_table {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; BORDER-COLLAPSE: collapse; EMPTY-CELLS: show; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+.t_table TD {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 4px
+}
+.blockcode {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; MARGIN: 10px 20px; BACKGROUND: url() #fff repeat-x 0px 0px; FONT-SIZE: 12px; OVERFLOW: hidden; BORDER-TOP: #cecece 4px solid; BORDER-RIGHT: #cecece 1px solid
+}
+.quote {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; MARGIN: 10px 20px; BACKGROUND: url() #fff repeat-x 0px 0px; FONT-SIZE: 12px; OVERFLOW: hidden; BORDER-TOP: #cecece 4px solid; BORDER-RIGHT: #cecece 1px solid
+}
+.blockcode H5 {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #fff 1px solid; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; COLOR: #666; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+.quote H5 {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #fff 1px solid; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; COLOR: #666; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+.blockcode CODE {
+	LINE-HEIGHT: 1.6em; MARGIN: 1em 1em 1em 3em
+}
+.quote BLOCKQUOTE {
+	LINE-HEIGHT: 1.6em; MARGIN: 1em 1em 1em 3em
+}
+.blockcode CODE {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; FONT: 14px/1.4em "Courier New", Courier, monospace; PADDING-TOP: 5px
+}
+.blockcode .headactions {
+	COLOR: #666; FONT-SIZE: 12px; CURSOR: pointer; PADDING-TOP: 5px
+}
+P.posttags {
+	MARGIN: 2em 0em 0.5em
+}
+P.posttags A {
+	COLOR: #f00; FONT-WEIGHT: normal
+}
+.footoperation SPAN.posttags A {
+	COLOR: #f00; FONT-WEIGHT: normal
+}
+P.posttags .postkeywords A {
+	COLOR: #090
+}
+.postmessage STRONG {
+	FONT-WEIGHT: normal
+}
+.postmessage EM {
+	COLOR: #666
+}
+.postmessage SPAN.t_tag {
+	BORDER-BOTTOM: #f00 1px solid; WHITE-SPACE: nowrap; CURSOR: pointer
+}
+.mainbox TD.postauthor {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 180px; PADDING-RIGHT: 5px; BACKGROUND: #f1f1f1; OVERFLOW: hidden; PADDING-TOP: 5px
+}
+.postauthor CITE {
+	BORDER-BOTTOM: #cecece 1px solid; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 21px; OVERFLOW: hidden; FONT-WEIGHT: normal
+}
+.postauthor CITE LABEL A {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FLOAT: right; PADDING-TOP: 3px
+}
+DIV.avatar {
+	TEXT-ALIGN: center; MARGIN: 5px; WIDTH: 160px; OVERFLOW: hidden
+}
+.postauthor DT {
+	FLOAT: left; COLOR: #666; MARGIN-RIGHT: 0.5em
+}
+.postauthor DD {
+	LINE-HEIGHT: 1.6em; HEIGHT: 1.6em
+}
+.postauthor DT {
+	LINE-HEIGHT: 1.6em; HEIGHT: 1.6em
+}
+.postauthor DD {
+	OVERFLOW: hidden
+}
+.postauthor P {
+	MARGIN: 0px 10px
+}
+.postauthor P.customstatus {
+	COLOR: #666
+}
+.postauthor P EM {
+	COLOR: #090
+}
+.postauthor DT EM {
+	COLOR: #090
+}
+.postauthor UL {
+	LINE-HEIGHT: 1.6em; MARGIN: 5px 10px; OVERFLOW: hidden
+}
+.postauthor LI {
+	TEXT-INDENT: 22px; WIDTH: 49.5%; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 0px 50%; FLOAT: left; HEIGHT: 1.6em; OVERFLOW: hidden
+}
+.postauthor LI.pm {
+	BACKGROUND-IMAGE: url()
+}
+.postauthor LI.buddy {
+	BACKGROUND-IMAGE: url()
+}
+.postauthor LI.space {
+	BACKGROUND-IMAGE: url()
+}
+.postauthor LI.online {
+	BACKGROUND-IMAGE: url(); COLOR: #090
+}
+.postauthor LI.offline {
+	BACKGROUND-IMAGE: url(); COLOR: #666
+}
+.postauthor LI.magic {
+	BACKGROUND-IMAGE: url()
+}
+.postauthor DL.profile {
+	MARGIN: 5px 10px; PADDING-TOP: 5px
+}
+.postauthor DIV.bio {
+	MARGIN: 5px 10px; PADDING-TOP: 5px
+}
+.box {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; MARGIN-BOTTOM: 10px; BACKGROUND: #fff; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 1px
+}
+.box H4 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url() #fff repeat-x 0px 0px; PADDING-TOP: 0px
+}
+.box TABLE {
+	WIDTH: 100%
+}
+.box TD {
+	BORDER-TOP: #e8e8e8 1px solid
+}
+.box .box LI {
+	LIST-STYLE-TYPE: none
+}
+.postattachlist H4 {
+	BORDER-TOP: #cecece 1px solid
+}
+.tradethumblist H4 {
+	BORDER-TOP: #cecece 1px solid
+}
+.pollpanel H4 {
+	BORDER-TOP: #cecece 1px solid
+}
+.activitythread H4 {
+	BORDER-TOP: #cecece 1px solid
+}
+.typeoption H4 {
+	BORDER-TOP: #cecece 1px solid
+}
+#pmprompt {
+	BORDER-BOTTOM-COLOR: #ededce; BORDER-TOP-COLOR: #ededce; BORDER-RIGHT-COLOR: #ededce; BORDER-LEFT-COLOR: #ededce
+}
+#pmprompt H4 {
+	BORDER-TOP-STYLE: none; BACKGROUND: #fffff2
+}
+#pmprompt TH {
+	BORDER-TOP-COLOR: #ededce
+}
+#pmprompt TD {
+	BORDER-TOP-COLOR: #ededce
+}
+TD.user {
+	WIDTH: 120px
+}
+TD.nums {
+	TEXT-ALIGN: center; WIDTH: 80px
+}
+TD.time {
+	WIDTH: 120px
+}
+TD.selector {
+	TEXT-ALIGN: center; WIDTH: 20px
+}
+.specialthread H1 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #fff; COLOR: #000; FONT-SIZE: 1.5em; PADDING-TOP: 10px
+}
+.specialthread H1 A {
+	COLOR: #333
+}
+.specialthread .postcontent LABEL {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 3px; MARGIN: 12px 12px 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: inline; BACKGROUND: no-repeat 3px 50%; FLOAT: right; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 3px
+}
+.specialthread .postcontent LABEL STRONG {
+	COLOR: #090
+}
+.specialthread .postcontent LABEL A {
+	COLOR: #333
+}
+.specialthread .postauthor {
+	WIDTH: 180px
+}
+.specialpostcontainer {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 0px
+}
+.specialpost {
+	BORDER-BOTTOM: #fbfbfb 4px solid; TEXT-ALIGN: right
+}
+.specialpost .postinfo H2 {
+	PADDING-LEFT: 8px; FLOAT: left; FONT-SIZE: 0.83em; FONT-WEIGHT: normal
+}
+.specialpost .postinfo H2 EM {
+	
+}
+.specialpost .postinfo {
+	BORDER-BOTTOM-COLOR: #f1f1f1; BORDER-TOP-COLOR: #f1f1f1; HEIGHT: 1.8em; BORDER-RIGHT-COLOR: #f1f1f1; BORDER-LEFT-COLOR: #f1f1f1
+}
+.specialpost STRONG {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+.specialpost .postinfo H2 A {
+	FONT-SIZE: 12px
+}
+.specialpost .postmessage {
+	BORDER-BOTTOM: #cecece 1px solid; TEXT-ALIGN: left; MIN-HEIGHT: 30px
+}
+* HTML .specialpost .postmessage {
+	HEIGHT: 30px; OVERFLOW: visible
+}
+P.imicons {
+	MARGIN: 8px auto; WIDTH: 160px
+}
+.pollpanel {
+	BORDER-RIGHT-WIDTH: 0px; MARGIN: 1em 0px; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.pollpanel H4 SPAN {
+	LINE-HEIGHT: 30px; FLOAT: left
+}
+.pollpanel H4 A {
+	LINE-HEIGHT: 30px; FLOAT: right; FONT-WEIGHT: normal
+}
+.pollpanel TBODY TD {
+	VERTICAL-ALIGN: middle
+}
+.pollpanel TBODY TD A {
+	COLOR: #333
+}
+.optionbar {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; BACKGROUND: url() repeat-x 0px 100%; FLOAT: left; HEIGHT: 12px; BORDER-TOP: #cecece 1px solid; MARGIN-RIGHT: 0.5em; BORDER-RIGHT: #cecece 1px solid
+}
+.optionbar DIV {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; FLOAT: left; HEIGHT: 10px; OVERFLOW: hidden; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+.rewardthread .postcontent LABEL {
+	BACKGROUND-IMAGE: url(); PADDING-LEFT: 25px
+}
+.rewardthread .postcontent LABEL.unsolved {
+	BACKGROUND-IMAGE: url(); FLOAT: right
+}
+#bestpost {
+	MARGIN-TOP: 10px; BORDER-TOP: #cecece 1px solid; PADDING-TOP: 10px
+}
+.activitythread .box TH {
+	WIDTH: 7em
+}
+#activityjoin LABEL {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none; BORDER-LEFT-STYLE: none; PADDING-TOP: 0px
+}
+.tradethread .postmessage {
+	MIN-HEIGHT: 160px
+}
+* HTML .tradethread .postmessage {
+	HEIGHT: 360px !important
+}
+.tradethread .postauthor DT {
+	HEIGHT: 20px; OVERFLOW: hidden
+}
+.tradethread .postauthor DD {
+	HEIGHT: 20px; OVERFLOW: hidden
+}
+* > .tradeinfo {
+	OVERFLOW: hidden
+}
+* HTML .tradeinfo {
+	HEIGHT: 1%
+}
+.tradeinfo H1 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; MARGIN-BOTTOM: 1em; BACKGROUND: #f1f1f1; COLOR: #000; FONT-SIZE: 1.5em; PADDING-TOP: 10px
+}
+.tradethumb {
+	FLOAT: left
+}
+.tradeattribute {
+	FLOAT: left
+}
+.tradethumb {
+	TEXT-ALIGN: center; WIDTH: 260px
+}
+.tradeattribute {
+	PADDING-LEFT: 1em
+}
+.tradeattribute IMG {
+	VERTICAL-ALIGN: middle
+}
+.tradeattribute DL {
+	PADDING-BOTTOM: 2em !important; OVERFLOW: hidden
+}
+.tradeattribute DT {
+	PADDING-BOTTOM: 0.5em; LINE-HEIGHT: 2em; PADDING-LEFT: 0.5em; WIDTH: 5em; PADDING-RIGHT: 0.5em; FLOAT: left; CLEAR: left; PADDING-TOP: 0.5em
+}
+.tradeattribute DD {
+	BORDER-BOTTOM: #e8e8e8 1px dotted; PADDING-BOTTOM: 0.5em; LINE-HEIGHT: 2em; PADDING-LEFT: 1.5em; PADDING-RIGHT: 1.5em; PADDING-TOP: 0.5em
+}
+.tradeattribute EM {
+	COLOR: #999
+}
+.tradeattribute DEL {
+	COLOR: #999
+}
+.tradeattribute STRONG {
+	COLOR: #f00; FONT-SIZE: 1.6em; FONT-WEIGHT: normal
+}
+.sellerinfo {
+	WIDTH: 180px; DISPLAY: inline; FLOAT: right; MARGIN-RIGHT: 1em
+}
+.sellerinfo H4 {
+	BORDER-BOTTOM: #e8e8e8 1px dotted
+}
+.sellerinfo DL {
+	MARGIN: 1em
+}
+.tradeinfo .postinfo {
+	CLEAR: both
+}
+.tradeinfo .postmessage {
+	MIN-HEIGHT: 100px
+}
+* HTML .tradethread .postmessage {
+	HEIGHT: 100px
+}
+* > .tradethumblist {
+	OVERFLOW: hidden
+}
+* HTML .tradethumblist {
+	HEIGHT: 1%
+}
+.tradethumblist DL {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 150px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 200px; PADDING-TOP: 10px
+}
+.tradethumblist DD.thumblist {
+	HEIGHT: 100px; OVERFLOW: hidden
+}
+.tradethumblist DD IMG {
+	VERTICAL-ALIGN: middle; CURSOR: pointer
+}
+.tradethumblist DL P {
+	HEIGHT: 1.6em; OVERFLOW: hidden
+}
+.tradethumblist P.tradename {
+	LINE-HEIGHT: 18px; MARGIN-TOP: 5px; HEIGHT: 45px
+}
+.tradethumblist DEL {
+	COLOR: #999
+}
+.tradethumblist STRONG {
+	COLOR: #f00; FONT-WEIGHT: normal
+}
+#ajaxtradelist .price {
+	TEXT-ALIGN: right
+}
+#ajaxtradelist STRONG {
+	COLOR: #f00; FONT-WEIGHT: normal
+}
+#ajaxtradelist .popupmenu_popup {
+	WHITE-SPACE: nowrap; OVERFLOW: visible
+}
+#ajaxtradelist .popupmenu_popup A {
+	COLOR: #333
+}
+.debatethread .postmessage {
+	HEIGHT: auto
+}
+.debatethread .box {
+	MARGIN: 0px
+}
+.debatethread .debatepoints {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN-BOTTOM: 10px; BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP: 1px; BORDER-LEFT-WIDTH: 0px
+}
+.debatepoints TBODY TD {
+	BORDER-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 50%; BORDER-TOP-WIDTH: 0px; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0px
+}
+.debatepoints .message TD.stand1 {
+	BORDER-BOTTOM: #ededce 1px; BORDER-LEFT: #ededce 1px solid; BACKGROUND: #fffff2; BORDER-TOP: #ededce 1px solid; BORDER-RIGHT: #ededce 1px solid
+}
+.debatepoints .message TD.stand2 {
+	BORDER-BOTTOM: #cecece 1px; BORDER-LEFT: #cecece 1px solid; BACKGROUND: #fbfbfb; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+
+.debatepoints H2 {
+	LINE-HEIGHT: 2em; PADDING-LEFT: 40px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 5px 1px
+}
+.stand1 H2 {
+	BACKGROUND-IMAGE: url()
+}
+.stand2 H2 {
+	BACKGROUND-IMAGE: url()
+}
+.poststand0 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px solid; LINE-HEIGHT: 22px; WIDTH: 40px; DISPLAY: block; BACKGROUND: #f7f7f7; FLOAT: left; HEIGHT: 22px; COLOR: #999; FONT-SIZE: 1.17em; BORDER-TOP: #e8e8e8 1px solid; MARGIN-RIGHT: 12px; BORDER-RIGHT: #e8e8e8 1px solid
+}
+.poststand1 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px solid; LINE-HEIGHT: 22px; WIDTH: 40px; DISPLAY: block; BACKGROUND: #f7f7f7; FLOAT: left; HEIGHT: 22px; COLOR: #999; FONT-SIZE: 1.17em; BORDER-TOP: #e8e8e8 1px solid; MARGIN-RIGHT: 12px; BORDER-RIGHT: #e8e8e8 1px solid
+}
+.poststand2 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px solid; LINE-HEIGHT: 22px; WIDTH: 40px; DISPLAY: block; BACKGROUND: #f7f7f7; FLOAT: left; HEIGHT: 22px; COLOR: #999; FONT-SIZE: 1.17em; BORDER-TOP: #e8e8e8 1px solid; MARGIN-RIGHT: 12px; BORDER-RIGHT: #e8e8e8 1px solid
+}
+.poststand1 {
+	BORDER-BOTTOM: #ededce 1px solid; BORDER-LEFT: #ededce 1px solid; BACKGROUND: #fffff2; COLOR: #090; BORDER-TOP: #ededce 1px solid; BORDER-RIGHT: #ededce 1px solid
+}
+.poststand2 {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; BACKGROUND: #fbfbfb; COLOR: #333; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+.debatepoints P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.debatepoints A {
+	BORDER-BOTTOM: 1px solid; TEXT-ALIGN: center; BORDER-LEFT: 1px solid; PADDING-BOTTOM: 0.3em; MARGIN: 0px auto; PADDING-LEFT: 1em; WIDTH: 80px; PADDING-RIGHT: 1em; DISPLAY: block; BORDER-TOP: 1px solid; BORDER-RIGHT: 1px solid; PADDING-TOP: 0.3em
+}
+
+
+.debatethread .optionbar DIV {
+	FLOAT: none
+}
+.payinfo DT {
+	PADDING-BOTTOM: 0.5em; PADDING-LEFT: 0.5em; WIDTH: 10em; PADDING-RIGHT: 0.5em; FLOAT: left; PADDING-TOP: 0.5em
+}
+.container {
+	WIDTH: 100%; OVERFLOW: hidden
+}
+.content {
+	WIDTH: 80%; FLOAT: right
+}
+.content .mainbox {
+	PADDING-BOTTOM: 5px
+}
+.content .footoperation {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-TOP-STYLE: none
+}
+.content .mainbox THEAD TH {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-TOP-STYLE: none
+}
+.content .mainbox THEAD TD {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-TOP-STYLE: none
+}
+.content .mainbox TBODY TH {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-TOP-STYLE: none
+}
+.content .mainbox TBODY TD {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-TOP-STYLE: none
+}
+.side {
+	WIDTH: 18%; FLOAT: left
+}
+.side DIV {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; MARGIN-BOTTOM: 10px; BACKGROUND: url() #fff repeat-x 0px 0px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+.side H2 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #fff 1px solid; LINE-HEIGHT: 2.4em; PADDING-LEFT: 10px; FONT-SIZE: 1.17em; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+.side UL {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 1px
+}
+.side LI {
+	LINE-HEIGHT: 2.4em; TEXT-INDENT: 26px
+}
+.side H3 {
+	BACKGROUND: url() no-repeat 14px 46%; FONT-WEIGHT: normal
+}
+.side_on H3 {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 0px solid; BACKGROUND: url() #f1f1f1 no-repeat 14px 46%; BORDER-TOP: #cecece 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #cecece 0px solid
+}
+.side LI UL {
+	BORDER-BOTTOM: #e8e8e8 1px solid
+}
+.side LI LI {
+	PADDING-LEFT: 1em
+}
+.side LI.current {
+	FONT-WEIGHT: normal
+}
+.side LI.current A {
+	COLOR: #666
+}
+.side LI.first H3 {
+	BORDER-TOP-STYLE: none
+}
+.side LI.last UL {
+	BORDER-BOTTOM-STYLE: none
+}
+#memberinfo {
+	
+}
+#memberinfo .memberinfo_avatar {
+	TEXT-ALIGN: center; WIDTH: 170px; FONT-WEIGHT: normal
+}
+#memberinfo LI LABEL {
+	COLOR: #666; MARGIN-RIGHT: 0.5em
+}
+#memberinfo .memberinfo_forum LABEL {
+	TEXT-ALIGN: right; WIDTH: 7em; FLOAT: left
+}
+.mysearch {
+	MARGIN-TOP: -10px; DISPLAY: block; FLOAT: left; MARGIN-LEFT: 10px
+}
+.msgtabs {
+	BORDER-BOTTOM: #cecece 1px solid; PADDING-BOTTOM: 23px; MARGIN-TOP: 0.8em; PADDING-RIGHT: 5px
+}
+.msgtabs STRONG {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: right; HEIGHT: 22px; BORDER-TOP: #cecece 1px solid; FONT-WEIGHT: normal; MARGIN-RIGHT: 5px; BORDER-RIGHT: #cecece 1px solid; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.dropmenu {
+	BACKGROUND-IMAGE: url() !important; PADDING-RIGHT: 15px !important; BACKGROUND-REPEAT: no-repeat !important; BACKGROUND-POSITION: 100% 50%; CURSOR: pointer
+}
+.popupmenu_popup {
+	BORDER-BOTTOM: #cecece 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 1.4em; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url() #fff repeat-x 0px 1px; OVERFLOW: hidden; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 10px
+}
+.headermenu_popup {
+	WIDTH: 170px
+}
+.headermenu_popup LI {
+	BORDER-BOTTOM: #e8e8e8 1px solid; LINE-HEIGHT: 24px; WIDTH: 7em; FLOAT: left; HEIGHT: 24px; OVERFLOW: hidden
+}
+.newspecialmenu {
+	WIDTH: 100px
+}
+.newspecialmenu LI {
+	BACKGROUND: url() no-repeat 3px 50%; FLOAT: left
+}
+.newspecialmenu LI.poll {
+	BACKGROUND-IMAGE: url()
+}
+.newspecialmenu LI.trade {
+	BACKGROUND-IMAGE: url()
+}
+.newspecialmenu LI.reward {
+	BACKGROUND-IMAGE: url()
+}
+.newspecialmenu LI.activity {
+	BACKGROUND-IMAGE: url()
+}
+.newspecialmenu LI.debate {
+	BACKGROUND-IMAGE: url()
+}
+.newspecialmenu LI.video {
+	BACKGROUND-IMAGE: url()
+}
+.newspecialmenu A {
+	BORDER-BOTTOM: #e8e8e8 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 25px; WIDTH: 75px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 5px
+}
+.newspecialmenu A:hover {
+	BORDER-BOTTOM-COLOR: #cecece; COLOR: #333; TEXT-DECORATION: none
+}
+#forumlist_menu {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 30px; PADDING-TOP: 10px
+}
+#forumlist_menu DL {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#forumlist_menu DT A {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+#forumlist_menu DD {
+	PADDING-LEFT: 1em
+}
+#forumlist_menu LI.sub {
+	PADDING-LEFT: 1em
+}
+#forumlist_menu LI.current A {
+	FONT-WEIGHT: normal
+}
+#forumlist_menu LI A {
+	COLOR: #333; FONT-WEIGHT: normal
+}
+.userinfopanel {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 140px; PADDING-RIGHT: 10px; BACKGROUND: url() #fff repeat-x 0px 0px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 10px
+}
+.imicons {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BACKGROUND: #fff; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid; PADDING-TOP: 4px
+}
+.imicons IMG {
+	VERTICAL-ALIGN: middle
+}
+.userinfopanel P {
+	TEXT-ALIGN: left; MARGIN: 0px
+}
+.userinfopanel P A {
+	COLOR: #333
+}
+.userinfopanel DL {
+	BORDER-BOTTOM: #e8e8e8 1px solid; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.postauthor CITE A {
+	BORDER-BOTTOM: #f1f1f1 0px solid; BORDER-LEFT: #f1f1f1 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; HEIGHT: 10px; OVERFLOW: hidden; BORDER-TOP: #f1f1f1 1px solid; BORDER-RIGHT: #f1f1f1 1px solid; PADDING-TOP: 5px
+}
+.postauthor CITE A.hover {
+	BORDER-BOTTOM-COLOR: #cecece; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #cecece; BORDER-RIGHT-COLOR: #cecece; BORDER-LEFT-COLOR: #cecece
+}
+.popupmenu_popup .postauthor {
+	WIDTH: 180px
+}
+.popupmenu_popup .postauthor A {
+	COLOR: #333
+}
+#calendar {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; MARGIN-BOTTOM: 0.8em; BACKGROUND: #fbfbfb; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#calendar TD {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-WEIGHT: normal; PADDING-TOP: 2px
+}
+#calendar_week TD {
+	BORDER-BOTTOM: #cecece 1px solid; LINE-HEIGHT: 2em; HEIGHT: 2em
+}
+#hourminute TD {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: #cecece 1px solid; PADDING-TOP: 4px
+}
+.calendar_expire {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+.calendar_expire A:link {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+.calendar_expire A:visited {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+.calendar_default {
+	COLOR: #333
+}
+.calendar_default A:link {
+	COLOR: #333
+}
+.calendar_default A:visited {
+	COLOR: #333
+}
+.calendar_checked {
+	COLOR: #090; FONT-WEIGHT: normal
+}
+.calendar_checked A:link {
+	COLOR: #090; FONT-WEIGHT: normal
+}
+.calendar_checked A:visited {
+	COLOR: #090; FONT-WEIGHT: normal
+}
+TD.calendar_checked {
+	BACKGROUND: #cecece
+}
+SPAN.calendar_checked {
+	BACKGROUND: #cecece
+}
+.calendar_today {
+	COLOR: #000; FONT-WEIGHT: normal
+}
+.calendar_today A:link {
+	COLOR: #000; FONT-WEIGHT: normal
+}
+.calendar_today A:visited {
+	COLOR: #000; FONT-WEIGHT: normal
+}
+#calendar_header TD {
+	BORDER-BOTTOM: #cecece 1px solid; WIDTH: 30px; HEIGHT: 20px; FONT-WEIGHT: normal
+}
+#calendar_year {
+	Z-INDEX: 10; POSITION: absolute; LINE-HEIGHT: 130%; DISPLAY: none; BACKGROUND: #fbfbfb
+}
+#calendar_year .col {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; BACKGROUND: #fbfbfb; FLOAT: left; MARGIN-LEFT: 1px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 4px
+}
+#calendar_month {
+	Z-INDEX: 11; BORDER-BOTTOM: #ddd 1px solid; POSITION: absolute; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 4px; LINE-HEIGHT: 130%; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; DISPLAY: none; BACKGROUND: #fbfbfb; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 4px
+}
+#styleswitcher_menu {
+	OVERFLOW: visible
+}
+#styleswitcher_menu {
+	WHITE-SPACE: nowrap
+}
+#styleswitcher_menu UL LI {
+	WHITE-SPACE: nowrap
+}
+#styleswitcher_menu UL LI.current A {
+	WHITE-SPACE: nowrap
+}
+#styleswitcher_menu UL LI A {
+	WHITE-SPACE: nowrap
+}
+#styleswitcher_menu UL LI.current {
+	FONT-WEIGHT: normal
+}
+#styleswitcher_menu UL LI.current A {
+	COLOR: #666
+}
+#styleswitcher_menu {
+	
+}
+#styleswitcher_menu LI.current {
+	FONT-WEIGHT: normal
+}
+.tagthread {
+	WIDTH: 360px
+}
+.tagthread .close {
+	FLOAT: right; PADDING-TOP: 5px
+}
+.tagthread H4 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; LINE-HEIGHT: 26px
+}
+.tagthread UL {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.tagthread LI {
+	LINE-HEIGHT: 1.8em
+}
+.tagthread LI.more {
+	TEXT-ALIGN: right; PADDING-RIGHT: 10px; BACKGROUND: url() no-repeat 100% 50%
+}
+.headactions .popupmenu_popup A {
+	WHITE-SPACE: nowrap; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666
+}
+.headactions .popupmenu_popup STRONG {
+	WHITE-SPACE: nowrap; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666
+}
+.headactions .popupmenu_popup {
+	OVERFLOW: visible
+}
+* + HTML #my_menu {
+	MARGIN-LEFT: 1px
+}
+* + HTML #memcp_menu {
+	MARGIN-LEFT: 1px
+}
+* + HTML #stats_menu {
+	MARGIN-LEFT: 1px
+}
+* + HTML #plugin_menu {
+	MARGIN-LEFT: 1px
+}
+* HTML #my_menu {
+	MARGIN-LEFT: 1px
+}
+* HTML #memcp_menu {
+	MARGIN-LEFT: 1px
+}
+* HTML #stats_menu {
+	MARGIN-LEFT: 1px
+}
+* HTML #plugin_menu {
+	MARGIN-LEFT: 1px
+}
+FIELDSET {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+INPUT {
+	BORDER-BOTTOM-COLOR: #ddd; PADDING-BOTTOM: 2px; BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #ddd; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #fff; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-COLOR: #ddd; BORDER-LEFT-COLOR: #ddd; BORDER-LEFT-WIDTH: 1px; PADDING-TOP: 2px
+}
+TEXTAREA {
+	BORDER-BOTTOM-COLOR: #ddd; PADDING-BOTTOM: 2px; BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #ddd; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #fff; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-COLOR: #ddd; BORDER-LEFT-COLOR: #ddd; BORDER-LEFT-WIDTH: 1px; PADDING-TOP: 2px
+}
+INPUT[type='radio'] {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT-STYLE: none
+}
+INPUT[type='checkbox'] {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT-STYLE: none
+}
+.radio {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT-STYLE: none
+}
+.checkbox {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT-STYLE: none
+}
+.invitecodelist INPUT {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; FONT-FAMILY: "Courier New", Courier, monospace; BORDER-TOP-STYLE: none; FONT-SIZE: 13px; BORDER-LEFT-STYLE: none; CURSOR: pointer
+}
+
+#postsubmit {
+	BORDER-BOTTOM: #fdb939 1px solid; BORDER-LEFT: #fffdee 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #fff8c5; COLOR: #090; BORDER-TOP: #fffdee 1px solid; MARGIN-RIGHT: 1em; BORDER-RIGHT: #fdb939 1px solid; PADDING-TOP: 0px
+}
+
+
+.formbox TH {
+	TEXT-ALIGN: left; WIDTH: 180px
+}
+.formbox TH {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.formbox TD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.formbox TH {
+	BORDER-BOTTOM: #cecece 1px solid
+}
+.formbox TD {
+	BORDER-BOTTOM: #cecece 1px solid
+}
+.formbox TABLE A {
+	COLOR: #333
+}
+.formbox LABEL {
+	CURSOR: pointer
+}
+.lighttxt {
+	COLOR: #999
+}
+.formbox *.tips {
+	COLOR: #999
+}
+.formbox TH UL {
+	PADDING-BOTTOM: 5px; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#threadtypes TABLE TD {
+	BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP: #cecece 1px solid
+}
+#threadtypes TABLE TH {
+	BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP: #cecece 1px solid
+}
+#loginform * {
+	VERTICAL-ALIGN: middle
+}
+
+.editor_cell {
+	VERTICAL-ALIGN: top
+}
+#editor {
+	BORDER-BOTTOM: #cecece 0px solid; BORDER-LEFT: #cecece 1px solid; BACKGROUND: #f7f7f7; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+#editor TD {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 2px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; PADDING-TOP: 2px
+}
+.editortoolbar TABLE {
+	WIDTH: auto
+}
+.editortoolbar A {
+	BORDER-BOTTOM: #f7f7f7 1px solid; BORDER-LEFT: #f7f7f7 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; BORDER-TOP: #f7f7f7 1px solid; CURSOR: pointer; BORDER-RIGHT: #f7f7f7 1px solid; PADDING-TOP: 1px
+}
+.editortoolbar .a {
+	BORDER-BOTTOM: #f7f7f7 1px solid; BORDER-LEFT: #f7f7f7 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; BORDER-TOP: #f7f7f7 1px solid; CURSOR: pointer; BORDER-RIGHT: #f7f7f7 1px solid; PADDING-TOP: 1px
+}
+.editortoolbar A.hover {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #f1f1f1; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; TEXT-DECORATION: none
+}
+.editortoolbar A:hover {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #f1f1f1; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; TEXT-DECORATION: none
+}
+.editortoolbar .a1 {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #f1f1f1; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; TEXT-DECORATION: none
+}
+.editor_switcher_bar {
+	POSITION: relative
+}
+.editor_switcher_bar A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FLOAT: right; MARGIN-RIGHT: 5px; PADDING-TOP: 0px
+}
+
+
+
+.editor_switcher_bar .editor_switcher {
+	BORDER-BOTTOM-COLOR: #cecece; FONT-WEIGHT: normal
+}
+.editor_text {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+.editor_text TEXTAREA {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 99%; FONT: 12px/1.6em "Courier New", Courier, monospace; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+
+
+.editor_attach {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+#wysiwyg {
+	FONT: 14px/1.6em Helvetica, Arial, sans-serif
+}
+#wysiwyg * {
+	LINE-HEIGHT: 1.6em
+}
+#wysiwyg A {
+	COLOR: #333 !important; TEXT-DECORATION: underline
+}
+#wysiwyg LI {
+	MARGIN-LEFT: 2em
+}
+#wysiwyg STRONG {
+	FONT-WEIGHT: normal
+}
+#wysiwyg B {
+	FONT-WEIGHT: normal
+}
+#wysiwyg EM {
+	FONT-STYLE: italic
+}
+#wysiwyg I {
+	FONT-STYLE: italic
+}
+.fontname_menu {
+	WIDTH: 97px
+}
+.fontsize_menu {
+	LINE-HEIGHT: normal; WIDTH: 27px
+}
+#posteditor_popup_table_menu {
+	WIDTH: 220px
+}
+.fontname_menu LI {
+	CURSOR: pointer
+}
+.fontsize_menu LI {
+	CURSOR: pointer
+}
+.editor_colornormal {
+	BORDER-BOTTOM-STYLE: none !important; PADDING-BOTTOM: 2px !important; BORDER-RIGHT-STYLE: none !important; PADDING-LEFT: 2px !important; PADDING-RIGHT: 2px !important; BORDER-TOP-STYLE: none !important; BORDER-LEFT-STYLE: none !important; PADDING-TOP: 2px !important
+}
+.editor_colorhover {
+	BORDER-BOTTOM-STYLE: none !important; PADDING-BOTTOM: 2px !important; BORDER-RIGHT-STYLE: none !important; PADDING-LEFT: 2px !important; PADDING-RIGHT: 2px !important; BORDER-TOP-STYLE: none !important; BORDER-LEFT-STYLE: none !important; PADDING-TOP: 2px !important
+}
+.editor_colornormal DIV {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; WIDTH: 10px; HEIGHT: 10px; OVERFLOW: hidden; BORDER-TOP: #fff 1px solid; CURSOR: pointer; BORDER-RIGHT: #fff 1px solid
+}
+.editor_colorhover DIV {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; WIDTH: 10px; HEIGHT: 10px; OVERFLOW: hidden; BORDER-TOP: #000 1px solid; CURSOR: pointer; BORDER-RIGHT: #000 1px solid
+}
+#quickpost {
+	PADDING-BOTTOM: 0px; OVERFLOW: hidden
+}
+* HTML #quickpost {
+	HEIGHT: 1%; OVERFLOW: visible
+}
+#quickpost H5 {
+	MARGIN: 0.5em 1em
+}
+.postoptions {
+	FLOAT: left
+}
+.postform {
+	FLOAT: left
+}
+.smilies {
+	FLOAT: left
+}
+.postoptions {
+	WIDTH: 20%
+}
+.smilies {
+	WIDTH: 20%
+}
+.postoptions P {
+	MARGIN: 2px 0.7em
+}
+.postform {
+	PADDING-BOTTOM: 10px; WIDTH: 59%
+}
+.postform P LABEL {
+	FONT: 14px/24px ΢���ź�,����; MARGIN-LEFT: 1px; VERTICAL-ALIGN: top; font-size-adjust: none; font-stretch: normal
+}
+.postform H5 INPUT {
+	WIDTH: 60%
+}
+.postform P {
+	MARGIN: 0px 1em
+}
+.postform DIV {
+	MARGIN: 0px 1em
+}
+.postform H4 * {
+	VERTICAL-ALIGN: middle
+}
+.postform H4 INPUT {
+	WIDTH: 60%
+}
+.postform TEXTAREA {
+	WIDTH: 90%; HEIGHT: 160px
+}
+.postform .btns {
+	LINE-HEIGHT: 30px; MARGIN-TOP: 0.5em; COLOR: #999
+}
+
+.postform .btns A {
+	COLOR: #333
+}
+
+.postform #postsubmit {
+	DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 2.3em
+}
+.btns EM {
+	COLOR: #999
+}
+#smilieslist {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px solid; OVERFLOW: hidden; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#quickpost #smilieslist {
+	MARGIN: 6px 1em 0px
+}
+#quickpost H4 {
+	BORDER-BOTTOM: #e8e8e8 1px solid
+}
+#smilieslist TD {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 8px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; CURSOR: pointer; PADDING-TOP: 8px
+}
+#smilieslist TD:hover {
+	BACKGROUND: #e8e8e8
+}
+#smilieslist .pages {
+	BORDER-RIGHT-WIDTH: 0px; FLOAT: none; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+#smilieslist H4 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: left; PADDING-BOTTOM: 5px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #f7f7f7; COLOR: #333; PADDING-TOP: 5px
+}
+#smilieslist .popupmenu_popup {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; WHITE-SPACE: nowrap; OVERFLOW: visible; PADDING-TOP: 5px
+}
+#smilieslist .popupmenu_popup A {
+	COLOR: #333
+}
+.ajaxform {
+	
+}
+.ajaxform TH {
+	BORDER-BOTTOM: #e8e8e8 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.ajaxform TD {
+	BORDER-BOTTOM: #e8e8e8 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.ajaxform THEAD TH {
+	FONT-WEIGHT: normal
+}
+.ajaxform A {
+	COLOR: #333
+}
+.btns TH {
+	BORDER-BOTTOM-STYLE: none !important; BORDER-RIGHT-STYLE: none !important; BORDER-TOP-STYLE: none !important; BORDER-LEFT-STYLE: none !important
+}
+.btns TD {
+	BORDER-BOTTOM-STYLE: none !important; BORDER-RIGHT-STYLE: none !important; BORDER-TOP-STYLE: none !important; BORDER-LEFT-STYLE: none !important
+}
+#ad_headerbanner {
+	MARGIN-TOP: 5px; FLOAT: right
+}
+.ad_text {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 6px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; MARGIN-BOTTOM: 10px; BACKGROUND: url() #fff repeat-x; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 6px
+}
+.ad_text TABLE {
+	WIDTH: 100%; BORDER-COLLAPSE: collapse
+}
+.ad_text TD {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 0px 0px; PADDING-TOP: 2px
+}
+.ad_textlink1 {
+	WHITE-SPACE: nowrap; FLOAT: left
+}
+.ad_textlink2 {
+	MARGIN: 10px
+}
+.ad_textlink1 {
+	PADDING-LEFT: 25px; BACKGROUND: url() no-repeat 0px 50%
+}
+.ad_textlink2 {
+	PADDING-LEFT: 25px; BACKGROUND: url() no-repeat 0px 50%
+}
+.ad_pip {
+	MARGIN: 10px; DISPLAY: inline; FLOAT: right; CLEAR: right
+}
+.ad_topicrelated {
+	BORDER-BOTTOM: #78a73d 1px solid; BORDER-LEFT: #78a73d 1px solid; PADDING-BOTTOM: 10px; MARGIN: 0px 10px 10px; PADDING-LEFT: 30px; PADDING-RIGHT: 10px; DISPLAY: inline; BACKGROUND: #caeec0; FLOAT: right; CLEAR: both; BORDER-TOP: #78a73d 1px solid; BORDER-RIGHT: #78a73d 1px solid; PADDING-TOP: 10px
+}
+.ad_column {
+	TEXT-ALIGN: center; MARGIN-BOTTOM: 10px
+}
+.ad_footerbanner {
+	TEXT-ALIGN: center; MARGIN: 5px; CLEAR: both
+}
+.archiver .wrap {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 10px; MARGIN: 20px auto 10px; PADDING-LEFT: 10px; WIDTH: 760px; PADDING-RIGHT: 10px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 10px
+}
+.archiver_banner {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; MARGIN-TOP: 40px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.archiver H1 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: 1.17em; PADDING-TOP: 0px
+}
+.archiver H2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: 1.17em; PADDING-TOP: 0px
+}
+.archiver_forumlist {
+	PADDING-BOTTOM: 1em; LINE-HEIGHT: 1.6em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; FONT-SIZE: 1.17em; PADDING-TOP: 1em
+}
+.archiver_threadlist {
+	PADDING-BOTTOM: 1em; LINE-HEIGHT: 1.6em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; FONT-SIZE: 1.17em; PADDING-TOP: 1em
+}
+.archiver_forumlist UL {
+	PADDING-LEFT: 2em
+}
+.archiver_threadlist LI {
+	LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; BACKGROUND: url() no-repeat 0px 46%
+}
+.archiver_threadlist LI EM {
+	COLOR: #999; FONT-SIZE: 0.83em
+}
+.archiver_post {
+	BORDER-TOP: #cecece 1px solid
+}
+.archiver_post CITE {
+	PADDING-LEFT: 10px; FONT-WEIGHT: normal
+}
+.archiver_post P {
+	LINE-HEIGHT: 3em; MARGIN-BOTTOM: 0.5em; BACKGROUND: #f1f1f1; HEIGHT: 3em
+}
+.archiver_postbody {
+	BORDER-BOTTOM: #e8e8e8 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 1.17em; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.archiver_pages {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.archiver_fullversion {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.archiver_pages STRONG {
+	COLOR: #090; FONT-WEIGHT: normal
+}
+.archiver_fullversion STRONG {
+	COLOR: #090; FONT-WEIGHT: normal
+}
+.archiver_fullversion STRONG A {
+	COLOR: #090; FONT-WEIGHT: normal
+}
+#ajaxwaitid {
+	Z-INDEX: 100; POSITION: absolute; LINE-HEIGHT: 1.6em; WIDTH: 100px; DISPLAY: none; BACKGROUND: #dd0000; HEIGHT: 1.6em; COLOR: #ffffff; OVERFLOW: hidden; TOP: 0px; RIGHT: 0px
+}
+.postform .special {
+	COLOR: #333; FONT-WEIGHT: normal
+}
+#postform .special {
+	COLOR: #333; FONT-WEIGHT: normal
+}
+#newpost EM {
+	COLOR: #999
+}
+.threadlist {
+	FONT-SIZE: 14px
+}
+.forumlist H2 {
+	FONT: 14px/24px ΢���ź�,����
+}
+.forumlist P A:link {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.forumlist P A:visited {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.forumlist P A:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+.forumlist H3 {
+	PADDING-BOTTOM: 3px; FONT: 14px/28px ΢���ź�,����
+}
+.forumlist H2 EM {
+	FONT: 12px/24px ����
+}
+A.linkRed:link {
+	COLOR: #f00 !important
+}
+A.linkRed:visited {
+	COLOR: #f00 !important
+}
+A.linkRed:hover {
+	COLOR: #c00 !important
+}
+#footer A {
+	COLOR: #000
+}
+
+
+
+
+
+
+.secondaryHeader {BACKGROUND: url() #fff repeat-x; HEIGHT: 33px; COLOR: #000; FONT-SIZE: 12px; OVERFLOW: hidden; FONT-WEIGHT: 100}
+		.secondaryHeader A {COLOR: #000; TEXT-DECORATION: none}
+		.secondaryHeader A:visited {COLOR: #000; TEXT-DECORATION: none}
+		.secondaryHeader A:hover {COLOR: #c00; TEXT-DECORATION: underline}
+		.secondaryHeader A:active {COLOR: #c00; TEXT-DECORATION: underline}
+		.sHBorder {BORDER-BOTTOM: #e3e3e3 1px solid; BORDER-LEFT: #e3e3e3 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 10px; ZOOM: 1; OVERFLOW: hidden; BORDER-TOP: #e3e3e3 1px solid; BORDER-RIGHT: #e3e3e3 1px solid; PADDING-TOP: 0px}
+		.sHLogo {LINE-HEIGHT: 31px; FLOAT: left; HEIGHT: 31px; OVERFLOW: hidden}
+		.sHLogo SPAN {DISPLAY: block; FONT-FAMILY: Arial; FLOAT: left; HEIGHT: 31px; FONT-SIZE: 27px; VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A {DISPLAY: block; FONT-FAMILY: Arial; FLOAT: left; HEIGHT: 31px; FONT-SIZE: 27px; VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A:link {DISPLAY: block; FONT-FAMILY: Arial; FLOAT: left; HEIGHT: 31px; FONT-SIZE: 27px; VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A:visited {DISPLAY: block; FONT-FAMILY: Arial; FLOAT: left; HEIGHT: 31px; FONT-SIZE: 27px; VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A:hover {DISPLAY: block; FONT-FAMILY: Arial; FLOAT: left; HEIGHT: 31px; FONT-SIZE: 27px; VERTICAL-ALIGN: middle}
+		.sHLogo SPAN {VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A IMG {VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A:link IMG {VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A:visited IMG {VERTICAL-ALIGN: middle}
+		.sHLogo SPAN A:hover IMG {VERTICAL-ALIGN: middle}
+		.sHLinks {LINE-HEIGHT: 31px; FLOAT: right}
+
+		.nav-t {BORDER-BOTTOM: #c7d4de 0px solid; BORDER-LEFT: #c7d4de 1px solid; BACKGROUND: url() repeat-x; HEIGHT: 40px; BORDER-TOP: #c7d4de 0px solid; BORDER-RIGHT: #c7d4de 1px solid}
+		.nav-t UL {FLOAT: left}
+		.nav-t UL LI {TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 36px; MARGIN: 4px 0px 0px 1px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: inline; FLOAT: left; PADDING-TOP: 0px; _padding: 0 4px}
+		.nav-t UL LI.selected {PADDING-BOTTOM: 0px; LINE-HEIGHT: 36px; PADDING-LEFT: 0px; WIDTH: 47px; PADDING-RIGHT: 0px; BACKGROUND: url() no-repeat; HEIGHT: 36px; PADDING-TOP: 0px}
+		.nav-t UL LI.selected A {COLOR: #fff}
+		.nav-t UL LI.selected {COLOR: #fff}
+		.nav-t UL LI.selected A:visited {COLOR: #fff}
+		.nav-t A.nav-map {TEXT-INDENT: -10000px; MARGIN: 9px 5px 0px 0px; OUTLINE-STYLE: none; WIDTH: 63px; DISPLAY: inline; BACKGROUND: url() -150px -150px; FLOAT: right; HEIGHT: 21px}
+		.nav-t2 {BACKGROUND: url() repeat-x 0px 0px; HEIGHT: 133px}
+		.nav-t2-in {BACKGROUND: url(/luntan/img/123456.jpg) no-repeat; HEIGHT: 133px}
+		.nav-t2-in H1 {WIDTH: 235px; FLOAT: left; HEIGHT: 103px}
+		.nav-t2-in H1 A {TEXT-INDENT: -10000px; OUTLINE-STYLE: none; DISPLAY: block; HEIGHT: 103px}
+		
+		.nav-banner IMG {DISPLAY: block}
+		.nav-t3 {BORDER-BOTTOM: #d7d7d7 1px solid; BORDER-LEFT: #d7d7d7 2px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 2px; BACKGROUND: url() 0px -50px; HEIGHT: 34px; BORDER-TOP: #d7d7d7 0px solid; BORDER-RIGHT: #d7d7d7 2px solid; PADDING-TOP: #d7d7d7 2px solid}
+		.nav-t3l {LINE-HEIGHT: 34px; FLOAT: left; COLOR: #000000}
+		.nav-t3l A {PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px}
+		.nav-t3r {PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 5px}
+		.nav-t3r SELECT {COLOR: #999}
+		.ipt-01 {BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 1px; LINE-HEIGHT: 16px; PADDING-LEFT: 1px; WIDTH: 200px; PADDING-RIGHT: 1px; BACKGROUND: #fff; HEIGHT: 16px; COLOR: #999; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 1px}
+		.ipt-sub {BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; TEXT-INDENT: -1000px; PADDING-LEFT: 0px; WIDTH: 78px; PADDING-RIGHT: 0px; BORDER-TOP-STYLE: none; BACKGROUND: url() 0px -150px; HEIGHT: 21px; BORDER-LEFT-STYLE: none; CURSOR: pointer; PADDING-TOP: 0px}
+		#menu {ZOOM: 1; _overflow: hidden}
+		.ipt-login {BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; TEXT-INDENT: -1000px; PADDING-LEFT: 0px; WIDTH: 39px; PADDING-RIGHT: 0px; BORDER-TOP-STYLE: none; BACKGROUND: url() -300px -150px; HEIGHT: 21px; BORDER-LEFT-STYLE: none; PADDING-TOP: 0px}
+		#menu {ZOOM: 1; _overflow: hidden}
+		.frameswitch {COLOR: #999}
+		.ipt-11 {PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 2px}
